@@ -1,0 +1,19 @@
+From 642c7961af274727e21946dfcf1cd856f5f5728d Mon Sep 17 00:00:00 2001
+From: Mohamed Haneef <mohamed.haneef@lntinfotech.com>
+Date: Tue, 14 Feb 2012 15:38:21 +0530
+Subject: [PATCH] second commit
+
+---
+ readme |    1 +
+ 1 files changed, 1 insertions(+), 0 deletions(-)
+
+diff --git a/readme b/readme
+index 7c21ad4..bc776d5 100644
+--- a/readme
++++ b/readme
+@@ -1 +1,2 @@
+ initial file
++want to merge
+-- 
+1.7.8.3
+
